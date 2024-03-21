@@ -34,7 +34,7 @@
                                                 <tr>
                                                     <td width="113" align="left" class="lf"> </td>
                                                     <td style="font-weight:bold">  </td>
-                                                    <td align="left"> <img width="80%" src="../images/user/<?= $row['pic']; ?>"/></td>
+                                                    <!--<td align="left"> <img width="80%" src="../images/user/<?= $row['pic']; ?>"/></td>-->
                                                 </tr>
                                                 <tr>
                                                     <td width="113" align="left" class="lf">Card Type</td>
